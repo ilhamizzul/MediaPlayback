@@ -440,7 +440,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
 
         @Override
         public void onSkipToPrevious() {
-            mExoPlayer.seekTo(0); //hehe
+            mExoPlayer.seekTo(0);
         }
      }
 
